@@ -1,11 +1,11 @@
 # Site settings
-author: cultured-firmware-2832
-title: 
+author: Jack Quinoa
+title: Jack's Blog
 header-img: img/home-bg.png
 email: jquinoa208@gmail.com
-copyright_name: cultured-firmware-2832
+copyright_name: Jack Quinoa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JackQuinoa
